@@ -1,0 +1,26 @@
+userName: ashishkumarsingh_tn2gbA
+accessKey: gVzz4TSbpWupyxZtdT9P
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 131.0
+    - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 131.0
+  - os: OS X
+    osVersion: Sequoia
+    browserName: Safari
+    browserVersion: 18.1
+  - os: OS X
+    osVersion: Monterey
+    browserName: Safari
+    browserVersion: 15.6
+browserstackLocal: true
+buildName: browserStack1
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info

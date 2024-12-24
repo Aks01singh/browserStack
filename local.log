@@ -1,0 +1,6 @@
+"" 
+
+Tue Dec 24 2024 15:32:11:689 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 14948
+Tue Dec 24 2024 15:32:11:689 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Tue Dec 24 2024 15:32:11:690 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Tue Dec 24 2024 15:32:11:690 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
